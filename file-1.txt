@@ -1,3 +1,4 @@
 
 I'm trying to practice git to get better understanding.
-Awesome
+
+Editing in remote repo
